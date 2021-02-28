@@ -1,0 +1,1 @@
+export const LIST_RESPONSE = 'LIST_RESPONSE';
